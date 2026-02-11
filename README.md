@@ -78,7 +78,7 @@ This SOP describes how to orgainze Active Directory Server into Orgainization Un
     </tr>
        <td align="center"><b>Creating a User</b></td>
        <td align="center"><b>User Details</b></td>
-       <td align="center"<>b>Set Password</b><td>
+       <td align="center"<>b>Set Password</b></td>
        </tr>
   </table>
 </div>
